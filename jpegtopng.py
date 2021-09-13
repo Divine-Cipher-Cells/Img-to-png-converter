@@ -23,6 +23,7 @@ for infile in os.listdir(current):
         except:
             os.mkdir(fresh)
             makingPNG()
+            
            
             
             
